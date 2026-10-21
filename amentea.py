@@ -1,14 +1,13 @@
-# ==============================================================================
-# Interaktivt spill, rip erling (IS-118)
-# ==============================================================================
 
+# Interaktivt spill, rip erling (IS-118)
+#
 def start_spill():
     print("GTA 6 loading .........")
     print("neida Erling's medborgerportal\n")
 
     
     # BESLUTNINGSPUNKT 1
-    -
+    
     print("\nSilje vs Elias")
     print("\nUenighet om teknologivalg har glidd fra sakskonflikt til personkonflikt")
     print("\nSilje mener at Elias låser brukeropplevelsen og hinder til innovasjon")
@@ -75,4 +74,4 @@ def start_spill():
 
 # Kjører spillet når filen åpnes
 if __name__ == "__main__":
-    start_spill()
+     start_spill()
